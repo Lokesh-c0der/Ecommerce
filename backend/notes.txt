@@ -1,0 +1,50 @@
+User verification
+with OTP Email verification
+Image upload
+Filter Function
+Role 
+    Admin
+    User
+Online Payment
+
+
+
+npm init -y
+npm i express
+npm i nodemon -D
+ "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+npm i dotenv
+npm i mongoose
+npm i bcryptjs
+npm i jsonwebtoken
+npm i nodemailer
+npm i multer
+npm i uuid
+
+
+------------------------------------------------------------
+ Model      -> Design
+ View       -> web Page Response
+ Controller -> Client -> Backend
+  (MVC)
+------------------------------------------------------------
+product Model
+multer middleware
+Controller
+  Create product
+Route 
+  /product/new
+staic
+  index.js/ uploads
+
+fetch all products
+fetch single products
+Delete products
+
+
+
+
